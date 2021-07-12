@@ -1,4 +1,7 @@
-# date: 7 July 2021
+# date: 11 July 2021
+
+rm(list = ls()) # clear out the variables from memory to make a clean execution of the code.
+
 
 ##### Sunspot data #####
 
